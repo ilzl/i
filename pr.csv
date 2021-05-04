@@ -1,4 +1,4 @@
-studyID,esID,yi,vi,time_wk,treats,post_id
+studyID,esID,yi,vi,x1,x2,post_id
 A1,1,0.533733731,0.184018035,0,2,1
 A1,2,0.296116599,0.169288598,0,2,1
 A1,3,-0.155386371,0.182570482,8,2,2
